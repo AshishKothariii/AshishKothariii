@@ -8,9 +8,7 @@ I'm a software engineer  passionate about backend, infrastrcuture, Data Engineer
 
 ## 🛠️ My Tech Stack
 
-![Nodejs](https://nodejs.org/en/about/branding/)
-![React](https://img.icons8.com/?size=100&id=bzf0DqjXFHIW&format=png&color=000000)
-![AWS](https://avatars.githubusercontent.com/u/2232217?s=200&v=4)
+
 
 ## 📈 My GitHub Stats
 
