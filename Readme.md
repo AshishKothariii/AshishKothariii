@@ -3,22 +3,14 @@
 [![GitHub followers](https://img.shields.io/github/followers/yourusername?label=Follow&style=social)](https://github.com/yourusername)
 [![Twitter Follow](https://img.shields.io/twitter/follow/yourhandle?style=social)](https://twitter.com/yourhandle)
 
-I'm a [your profession/role] passionate about [your interests]. 
-
-- 🔭 I'm currently working on [current project]
-- 🌱 I'm currently learning [what you're learning]
-- 👯 I'm looking to collaborate on [type of projects]
-- 🤔 I'm looking for help with [something you need help with]
-- 💬 Ask me about [topics you can discuss]
-- 📫 How to reach me: [email or other contact info]
-- 😄 Pronouns: [your pronouns]
-- ⚡ Fun fact: [something interesting about you]
+I'm a software engineer  passionate about backend, infrastrcuture, Data Engineering, Math, Stats. 
+- 🌱 I'm currently learning Kubernetes, Teraform.
 
 ## 🛠️ My Tech Stack
 
-![Language1](https://img.shields.io/badge/-Language1-blue?style=flat&logo=language1logo)
-![Language2](https://img.shields.io/badge/-Language2-green?style=flat&logo=language2logo)
-![Tool1](https://img.shields.io/badge/-Tool1-red?style=flat&logo=tool1logo)
+![Nodejs](https://img.shields.io/badge/-Language1-blue?style=flat&logo=language1logo)
+![React](https://img.shields.io/badge/-Language2-green?style=flat&logo=language2logo)
+![AWS](https://img.shields.io/badge/-Tool1-red?style=flat&logo=tool1logo)
 
 ## 📈 My GitHub Stats
 
