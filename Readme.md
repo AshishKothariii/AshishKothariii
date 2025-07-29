@@ -1,7 +1,6 @@
 # Hi there, I'm Ashish 👋
 
-[![GitHub followers](https://img.shields.io/github/followers/yourusername?label=Follow&style=social)](https://github.com/yourusername)
-[![Twitter Follow](https://img.shields.io/twitter/follow/yourhandle?style=social)](https://twitter.com/yourhandle)
+[![GitHub followers](https://img.shields.io/github/followers/yourusername?label=Follow&style=social)](https://github.com/AshishKothariii)
 
 I'm a software engineer  passionate about backend, infrastrcuture, Data Engineering, Math, Stats. 
 - 🌱 I'm currently learning Kubernetes, Teraform.
