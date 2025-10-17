@@ -1,8 +1,7 @@
 # Hi there, I'm Ashish 👋
 
 [![GitHub followers](https://img.shields.io/github/followers/AshishKothariii?label=Follow&style=social)](https://github.com/AshishKothariii)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/yourprofile)
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-red)](mailto:your.email@gmail.com)
+[![Email](mailto:ashishkothari3664@gmail.com)
 
 I'm a passionate Software Engineer with expertise in backend systems, distributed infrastructure, and data engineering. I love building scalable solutions and solving complex problems with strong mathematical and statistical foundations.
 
